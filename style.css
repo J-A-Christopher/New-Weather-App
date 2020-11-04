@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.container {
+  margin: auto;
+  width: 380px;
+  margin-top: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border: rebeccapurple 2px solid;
+  height: 75vh;
+  background-color: grey;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  background-image: url("./img/pexels-elijah-o'donnell-4173624.jpg");
+  background-size: cover;
+}
+
+.container > div {
+  padding-top: 10px;
+}
+
+#weather {
+  padding-bottom: 10px;
+}
+
+/* #city,#time,.tempweather,.other,.other1,.other2,.other3,.other4,.other5{
+  margin-left: 10px;
+} */
+
+#temp {
+  margin-top: 80px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+/* #weather{
+  margin-bottom: 50px;
+} */
+
+/* .other,.other1,.other2{
+  display: inline-block;
+}
+.other2{
+  margin-left: 90px;
+}
+
+.other1{
+  margin-left: 110px;
+} */
+
+/* .other3,.other4,.other5{
+  display: inline-block;
+  margin-top: 40px;
+}
+
+.other5{
+ margin-left: 55px; ;
+}
+
+.other4{
+  margin-left:100px;
+} */
